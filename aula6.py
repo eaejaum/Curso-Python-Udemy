@@ -1,4 +1,4 @@
-# COERÇÃO DE TIPOS (convertendo um tipo para outro)
+# CONVERSÃO DE TIPOS (convertendo um tipo para outro)
 
 '''
 Type convertion, typecasting, coercion
