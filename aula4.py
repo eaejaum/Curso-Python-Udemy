@@ -7,7 +7,7 @@ int sem sinal ( - ), é considerado positivo.
 '''
 print("Números inteiros")
 print(11)
-print(-11)
+print(-12)
 print(0)
 
 # float ->  Número com ponto flutuante
