@@ -1,3 +1,5 @@
+# TIPO STR (string)
+
 """
 Python = Linguagem de programação
 Tipagem = Dinâmica / Forte

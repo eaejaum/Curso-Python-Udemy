@@ -1,3 +1,5 @@
+# FUNÇÃO PRINT
+
 # Função "print" Argumento "()" => print()
 # sep="" = Separador
 
