@@ -7,7 +7,7 @@ str -> string -> texto
 Strings são textos que estão dentrp de aspas
 """
 
-print(1234)
+print(12345)
 
 # Aspas simples
 print('João Pedro')
