@@ -5,19 +5,17 @@ Executa uma ação enquanto uma condição for verdadeira
 Loop infinito -> Quando um código não tem fim 
 '''
 
-contador = 0
+qtd_linhas = 5
+qtd_colunas = 5
+linha = 1
 
-while contador <= 100:
-    contador += 1
+while linha <= qtd_linhas:
+    coluna = 1
 
-    if contador == 6:
-        print('Não vou mostrar o 6')
-        continue
-    
-    print(contador)
-
-    if contador == 40:
-        break
+    while coluna <= qtd_colunas:   
+        print(f'{linha=} {coluna=}')
+        coluna += 1
+    linha += 1
 
 
 
